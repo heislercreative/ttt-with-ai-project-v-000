@@ -22,7 +22,7 @@ module Players
         computer_move = (open_moves.sample+1).to_s
       end
       sleep(1)
-      computer_mov
+      computer_move
     end
     
   end
